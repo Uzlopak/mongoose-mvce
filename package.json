@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-mvce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mongo": "node ./tools/repl.js",
+    "test": "node --inspect main"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mongodb-memory-server": "^8.2.0",
+    "mongoose": "latest"
+  }
+}
