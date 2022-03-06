@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "mongodb-memory-server": "^8.2.0",
-    "mongoose": "latest"
+    "mongoose": "6.2.3"
   }
 }
